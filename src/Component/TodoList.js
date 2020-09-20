@@ -5,9 +5,7 @@ export default class TodoList extends Component {
         return (
             <div>
                 <h1>TodoInput</h1>
-                <div className='col-4 bg-warning'>hello</div>
-                <div className='col-4 bg-danger'>hello</div>
-                <div className='col-4 bg-primary'>hell0o</div>
+                
             </div>
         )
     }
