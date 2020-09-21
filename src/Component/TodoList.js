@@ -4,8 +4,9 @@ export default class TodoList extends Component {
     render() {
         return (
             <div>
-                <h1>TodoInput</h1>
-                
+                <div className='input-group'>
+                    
+                </div>
             </div>
         )
     }
